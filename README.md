@@ -1,2 +1,2 @@
-# myfirstgit initialization
+# myfirst git initialization
 
